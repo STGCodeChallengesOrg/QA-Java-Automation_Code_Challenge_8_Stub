@@ -1,4 +1,5 @@
 QA Java Automation Code Challenge #8 (Crawler and image verification):
+
 Extension of the crawler challenge.  As you navigate through the site, find every broken image.
 
 Go to https://www.skiutah.com/
