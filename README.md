@@ -10,4 +10,4 @@ broken image to a text file.
 The sample code stub is found in the Utils.java file.
 
 
-Refer to the Git_Procedure Step By Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
+Refer to the Git Procedure Step By Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
